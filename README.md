@@ -1,8 +1,8 @@
-# Clean code
+# Writing a clean code
 I aim to learn to develop a code that can be reused and shared efficiently.This also helps in version control and avoiding code loss.Refactoring code in an integral part of coding to make it more usable.
 The code is created in Jupyter notebook.Though I am using python 3.7, I will be explaining how we can create an environment with a different version and list.
 
-##Creating an environment
+## Creating an environment
 The environment is just created to keep the required versions of libraries and packages installed, so no further version updation affects the code implemented. We can simply create the environment in  the Integrated Development Environment(IDE). Using Anaconda, we launch the shell and use the syntax: 
 conda create -n or --name <name> <packages>.
  Example: conda create -n newEnvironment Python=2.7
